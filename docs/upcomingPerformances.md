@@ -10,10 +10,14 @@ hide:
 
 ## February 17-19, 2023
 
-### MORAL at the [Trylon Cinema](https://www.trylon.org)
+![](/images/moral-title.png)
+
+### MORAL at the [Trylon Cinema](https://www.trylon.org/film/moral/all/)
 
 
 <img style="padding: 0px 25px 0px 3px;"; src="/images/moral.png">
+
+
 
 
 -------------
