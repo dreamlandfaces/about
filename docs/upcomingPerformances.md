@@ -9,33 +9,34 @@ hide:
 
 -------------
 
-## April 4, 2023, 7:30pm
+## Nosferatu (1922)
 
-### Cinema's First Nasty Women: Contagious Revenge 
-[Silent Cinema Shorts at Northrop](https://www.northrop.umn.edu/events/cinemas-first-nasty-women-with-dreamland-faces-2023)
+Live silent film accompaniment
+
+**Sunday, October 15, 2023, 7:00 pm**
+
+[The Parkway Theater](https://theparkwaytheater.com)
+4814 Chicago Ave S, Minneapolis, MN
+
+![nosferatu](images/nosferatu.jpg)
+
+----------------------------
 
 
-<img style="float:left; padding: 0px 25px 0px 3px;"; src="/images/hysteria.jpg">
+## All Hands on Deck: Dance, Metamorphosis, and Surreal Labor in Silent Cinema
 
+Live silent film accompaniment featuring Molly Raben on pipe organ
 
-CINEMA'S FIRST NASTY WOMEN: CONTAGIOUS REVENGE
+**Tue, Nov 14, 2023, 7:00 pm CT**
 
-1. The Dairymaid's Revenge (US, 1899, 2 min) 
+[Northrop at the University of Minnesota
+](https://www.northrop.umn.edu/events/all-hands-on-deck-silent-cinema-2023)
 
-2. La grève des nourrices (France, 1907, 12 min) 
+Ways to watch & listen: 
 
-3. Victoire a ses nerfs (France, 1907, 3 min) 
+* In-person
+* Livestream
+* On-demand through Nov 26, 2023
 
-4. Zoé et la parapluie miraculeux (France, 1913, 4 min) 
+![hands](images/hands.jpg)
 
-5. Rembrandt de la rue Lepic (France, 1911, 6 min) 
-
-6. La pile électrique de Léontine (France, 1910, 6.5 min) 
-
-7. Laughing Gas (US, 1907, 7.5 min)
-
-8. Daisy Doodad's Dial (U.K., 1914, 9 min)
-
-9. La peur des ombres (France, 1911, 4 min)
-
-10. The Night Rider (US, 1920, 25 min)
