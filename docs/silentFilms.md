@@ -6,6 +6,9 @@ hide:
 
 # Silent films
 
+![](images/df-Halbritter.jpg)
+*photo by Jayme Halbritter copyright 2023*
+
 Dreamland Faces have composed and performed original scores to many silent films. Here are some of our favorites:
 
 ## Curated Live Film Programs

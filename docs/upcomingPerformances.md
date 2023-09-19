@@ -15,10 +15,11 @@ Live silent film accompaniment
 
 **Sunday, October 15, 2023, 7:00 pm**
 
-[The Parkway Theater](https://theparkwaytheater.com)
+[The Parkway Theater](https://theparkwaytheater.com/all-events/nosferatu-dreamland-faces)
+
 4814 Chicago Ave S, Minneapolis, MN
 
-![nosferatu](images/nosferatu.jpg)
+![nosferatu](images/nosferatu.jpg){ width="300" }
 
 ----------------------------
 
@@ -38,5 +39,5 @@ Ways to watch & listen:
 * Livestream
 * On-demand through Nov 26, 2023
 
-![hands](images/hands.jpg)
+![hands](images/hands.jpg){ width="300" }
 

@@ -1,23 +1,29 @@
 ---
 hide:
   - navigation
-  - toc
   - footer
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6qOxZ5BIuas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Short clips from silent film accompaniments.
 
---------------
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zJNPccdBvaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-----
-<iframe width="560" height="315" src="https://www.youtube.com/embed/si-Bv0SBRLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/865414016?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Air Fan (clip) - Dreamland Faces"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j3mLtLaoJNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-------
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6T1BrKR7b9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/865415203?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Les Femmes Cochers (clip) - Dreamland Faces"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-----
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mZEJvWl-SKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/865414511?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Her First Biscuits (clip) - Dreamland Faces"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+---
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/865416652?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Mary Jane's Mishap (clip) - Dreamland Faces"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+---
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/865415386?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Leontine en Vacances (clip) - Dreamland Faces"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+---
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/865417252?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Rosalie a maladie du sommeil (clip) - Dreamand Faces"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
