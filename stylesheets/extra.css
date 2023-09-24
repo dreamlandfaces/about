@@ -1,6 +1,6 @@
-/* 
-.md-header, .md-tabs { 
-  background-color: #0a4c7b;
+.md-typeset p {
+      font-size: 1.25em;
+      line-height: 1.25;
 }
 
 /* Hide main nav title */
