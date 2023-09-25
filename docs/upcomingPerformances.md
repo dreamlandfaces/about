@@ -8,49 +8,56 @@ hide:
 # Upcoming performances
 
 -------------
+
 <div class="grid cards" markdown>
 
-- ## NOSFERATU (1922)
-	![nosferatu](images/nosferatu.png){ width=50% align=right}
-
+- ## **NOSFERATU** (1922)
+	
 	Live silent film accompaniment
 
 	**Sunday, October 15, 2023, 7:00 pm**
 
-	[The Parkway Theater](https://theparkwaytheater.com/all-events/nosferatu-dreamland-faces)
+	[The Parkway Theater](https://theparkwaytheater.com/all-events/nosferatu-dreamland-faces) (4814 Chicago Ave S, Minneapolis)
 	
-	4814 Chicago Ave S, Minneapolis, MN
-	
-	Our ensemble for this film includes violin, viola, cello, bass, bassetti accordion, marimba, and musical saw. 
+		Ensemble:
+		* Elaine Evans: violin
+		* Rachel Rogness: viola
+		* Christa Schneider: cello
+		* Eric Struve: bass
+		* Karen Majewicz: bassetti accordion
+		* Andy McCormick: marimba & musical saw
 
-	
+
+-  ![type:video](https://player.vimeo.com/video/867769536)
+
 
 </div>
+</div>
 
+-----------------------------
 
+<div class="grid cards"  markdown>
 
-<div class="grid cards" markdown>
+- ## **ALL HANDS ON DECK**: Dance, Metamorphosis, and Surreal Labor in Silent Cinema
 
-- ## ALL HANDS ON DECK: Dance, Metamorphosis, and Surreal Labor in Silent Cinema
-
-	![hands](images/hands.jpg){ width=50% align=right}
+	
 
 	Live silent film accompaniment featuring Molly Raben on pipe organ
 
-	**Tue, Nov 14, 2023, 7:00 pm CT**
+	**Tue, Nov 14, 2023, 7:00 pm CT** (*Livestream or watch On-demand through Nov 26, 2023*)
 
 	[Northrop at the University of Minnesota
 ](https://www.northrop.umn.edu/events/all-hands-on-deck-silent-cinema-2023)
 
-	Ways to watch & listen: 
-
-	* In-person
-	* Livestream
-	* On-demand through Nov 26, 2023
-
-
-	### FILM LIST:
+		Ensemble:
+		* Molly Raben: pipe organ
+		* Julie Johnson: flute
+		* Philip Potyondy: cornet
+		* Karen Majewicz: accordion
+		* Andy McCormick: marimba & musical saw
 	
+	Film list for ALL HANDS ON DECK:
+
 	**MADAME'S CRAVINGS**(Alice Guy-Blaché, France, 1906, 4:25 min)
 	
 	:	Short comedy directed by Alice Guy-Blaché before she moved from France to the US. A woman exhibits her multifarious maternity cravings in public.
@@ -76,6 +83,12 @@ hide:
 	:	Ethnographic footage filmed by Zora Neale Hurston for her thesis research depicting rural, Black communities in the Southern US in the 1920s.
 	
 	**THE DRAGONFLY AND THE ANT** (Vladislaw Starewicz, Russia, 1913, 4:45 min)
+	
 	:	Pre-Soviet stop motion animation starring dead bugs: a tale of labor and zoomorphic revenge.
 
+
+-	![hands](images/hands.jpg)	
+
 </div>
+
+

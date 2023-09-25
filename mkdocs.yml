@@ -22,6 +22,7 @@ theme:
 
 plugins:
       - privacy
+      - mkdocs-video
       
 extra:
       generator: false
