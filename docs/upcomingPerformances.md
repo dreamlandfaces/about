@@ -24,7 +24,7 @@ hide:
 		* Rachel Rogness: viola
 		* Christa Schneider: cello
 		* Eric Struve: bass
-		* Karen Majewicz: bassetti accordion
+		* Karen Majewicz: accordion
 		* Andy McCormick: marimba & musical saw
 
 
