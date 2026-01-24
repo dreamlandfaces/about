@@ -17,3 +17,5 @@ Karen Majewicz and Andy McCormick perform and write music together as Dreamland 
 
 Contact us: dreamlandfaces at gmail.com
 
+![Go West at the Heights Theatre](images/goWest.png)
+
