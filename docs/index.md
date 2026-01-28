@@ -5,6 +5,8 @@ hide:
   - footer
 ---
 
+![Go West at the Heights Theatre](images/goWest.png)
+
 # About
 
 Karen Majewicz and Andy McCormick perform and write music together as Dreamland Faces.
@@ -16,6 +18,3 @@ Karen Majewicz and Andy McCormick perform and write music together as Dreamland 
 **Andy McCormick** is a composer and multi-instrumentalist. He writes music for movies, theater, with lyricists, and for friends. Andy enjoys collaborating and is usually willing to experiment. He is a proud musical saw player, ardent supporter of new music, and willing to sing dissonant intervals.
 
 Contact us: dreamlandfaces at gmail.com
-
-![Go West at the Heights Theatre](images/goWest.png)
-
