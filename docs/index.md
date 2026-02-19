@@ -5,8 +5,6 @@ hide:
   - footer
 ---
 
-![Go West at the Heights Theatre](images/goWest.png)
-
 # About
 
 Karen Majewicz and Andy McCormick perform and write music together as Dreamland Faces.
